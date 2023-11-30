@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Konstantin\\source\\repos\\kg12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290C5AB5-C8CD-4FF9-9FFA-0A61AABBAEB8}|kg12\\kg12.vcxproj|C:\\Users\\Konstantin\\source\\repos\\kg12\\kg12\\kg12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{290C5AB5-C8CD-4FF9-9FFA-0A61AABBAEB8}|kg12\\kg12.vcxproj|solutionrelative:kg12\\kg12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Konstantin\\source\\repos\\vcpkg\\installed\\x64-windows\\include\\SFML\\Graphics\\Glyph.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Glyph.hpp",
+              "DocumentMoniker": "C:\\Users\\Konstantin\\source\\repos\\vcpkg\\installed\\x64-windows\\include\\SFML\\Graphics\\Glyph.hpp",
+              "RelativeDocumentMoniker": "..\\vcpkg\\installed\\x64-windows\\include\\SFML\\Graphics\\Glyph.hpp",
+              "ToolTip": "C:\\Users\\Konstantin\\source\\repos\\vcpkg\\installed\\x64-windows\\include\\SFML\\Graphics\\Glyph.hpp",
+              "RelativeToolTip": "..\\vcpkg\\installed\\x64-windows\\include\\SFML\\Graphics\\Glyph.hpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-29T22:30:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kg12.cpp",
+              "DocumentMoniker": "C:\\Users\\Konstantin\\source\\repos\\kg12\\kg12\\kg12.cpp",
+              "RelativeDocumentMoniker": "kg12\\kg12.cpp",
+              "ToolTip": "C:\\Users\\Konstantin\\source\\repos\\kg12\\kg12\\kg12.cpp",
+              "RelativeToolTip": "kg12\\kg12.cpp",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAmwJoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-21T16:06:35.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
